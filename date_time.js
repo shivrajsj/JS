@@ -20,4 +20,3 @@ let mycreateddDate = new Date(2023,0,23,5,3)
 
 //ese date k sath exaact time bhi samje ga
 console.log(mycreateddDate.getTime())
-jsldghlshglg
